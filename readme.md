@@ -36,10 +36,13 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
     $ npm install npm -g
 
+### MongoDB
+  You can refer offical documentation for installation of [Mongodb](https://docs.mongodb.com/manual/installation/)
+
 ## Install
 
-    $ git clone https://github.com/YOUR_USERNAME/PROJECT_TITLE
-    $ cd PROJECT_TITLE
+    $ git clone https://github.com/NitinHsharma/node-crud-operation
+    $ cd node-crud-operation
     $ npm install
 
 ## Configure app
